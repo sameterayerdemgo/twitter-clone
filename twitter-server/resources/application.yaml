@@ -1,0 +1,15 @@
+migration:
+  sourceurl: file://db/migrations
+  databaseurl: postgres://postgres:postgres@localhost:5432/postgres?sslmode=disable
+
+server:
+  mode: debug
+  port: :8080
+
+database:
+  username: postgres
+  password: postgres
+  sslmode: disable
+  dbname: postgres
+  host: localhost
+  port: 5432
