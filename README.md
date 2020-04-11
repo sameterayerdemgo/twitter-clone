@@ -1,4 +1,4 @@
 # twitter-clone
 
-using technologies: vue,go gin , 
+using technologies: vue,go gin , postgresql
 
